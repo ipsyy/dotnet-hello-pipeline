@@ -1,0 +1,15 @@
+C:\Users\isahoo\HelloPipeline\obj\Debug\net10.0\HelloPipeline.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\isahoo\HelloPipeline\obj\Debug\net10.0\HelloPipeline.AssemblyInfoInputs.cache
+C:\Users\isahoo\HelloPipeline\obj\Debug\net10.0\HelloPipeline.AssemblyInfo.cs
+C:\Users\isahoo\HelloPipeline\obj\Debug\net10.0\HelloPipeline.csproj.CoreCompileInputs.cache
+C:\Users\isahoo\HelloPipeline\obj\Debug\net10.0\HelloPipeline.sourcelink.json
+C:\Users\isahoo\HelloPipeline\bin\Debug\net10.0\HelloPipeline.exe
+C:\Users\isahoo\HelloPipeline\bin\Debug\net10.0\HelloPipeline.deps.json
+C:\Users\isahoo\HelloPipeline\bin\Debug\net10.0\HelloPipeline.runtimeconfig.json
+C:\Users\isahoo\HelloPipeline\bin\Debug\net10.0\HelloPipeline.dll
+C:\Users\isahoo\HelloPipeline\bin\Debug\net10.0\HelloPipeline.pdb
+C:\Users\isahoo\HelloPipeline\obj\Debug\net10.0\HelloPipeline.dll
+C:\Users\isahoo\HelloPipeline\obj\Debug\net10.0\refint\HelloPipeline.dll
+C:\Users\isahoo\HelloPipeline\obj\Debug\net10.0\HelloPipeline.pdb
+C:\Users\isahoo\HelloPipeline\obj\Debug\net10.0\HelloPipeline.genruntimeconfig.cache
+C:\Users\isahoo\HelloPipeline\obj\Debug\net10.0\ref\HelloPipeline.dll
